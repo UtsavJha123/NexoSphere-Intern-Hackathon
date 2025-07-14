@@ -8,6 +8,7 @@
 5. **:sparkles: Profile Optimization**: Suggests improvements to maximize profile visibility
 <img width="840" height="492" alt="Screenshot 2025-07-14 at 10 32 28 PM" src="https://github.com/user-attachments/assets/a7ff8743-c3a7-4b8f-85dd-93ba90a58b42" />
 ## :dart: Use Cases & Examples
+
 ### Professional Content Creation
 - **Career Announcements**: "Share my promotion to Senior Data Scientist at Google"
 - **Project Showcases**: "Post about launching a new AI product that increased efficiency by 40%"
