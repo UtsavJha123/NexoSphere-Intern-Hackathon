@@ -1,0 +1,6 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pymongo[srv]==4.7.3         # [srv] installs dnspython for Atlas SRV look-ups
+pydantic==2.7.3
+faker==25.7.0
+python-dotenv==1.0.1
